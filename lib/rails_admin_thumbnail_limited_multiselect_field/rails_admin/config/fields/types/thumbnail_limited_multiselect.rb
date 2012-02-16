@@ -7,7 +7,7 @@ module RailsAdmin::Config::Fields::Types
     end
     
     register_instance_option(:partial) do
-      :thumbnail_limited_multiselect_field
+      :thumbnail_limited_multiselect
     end
     
     register_instance_option(:label) do
