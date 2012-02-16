@@ -1,5 +1,5 @@
 module RailsAdmin::Config::Fields::Types
-  class Name < RailsAdmin::Config::Fields::Base
+  class ThumbnailLimitedMultiselect < RailsAdmin::Config::Fields::Base
     RailsAdmin::Config::Fields::Types::register(:thumbnail_limited_multiselect, self)
           
     register_instance_option(:config) do
