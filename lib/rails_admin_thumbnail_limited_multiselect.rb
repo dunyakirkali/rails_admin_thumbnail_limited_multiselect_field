@@ -1,0 +1,3 @@
+require 'rails_admin'
+require 'rails_admin_thumbnail_limited_multiselect/rails_admin/config/fields/types/thumbnail_limited_multiselect'
+load 'rails_admin_thumbnail_limited_multiselect/engine.rb'
