@@ -1,0 +1,21 @@
+<ul id="items">
+  <% @projects.each do |project| %>
+      <li class="clickable">
+        <%= image_tag get_image_with_object_and_style(project, 'thumb'), :'data-project-id' => project.id %>
+      </li>
+  <% end %>
+</ul>
+
+<script>
+    // TODO (dunyakirkali): move script out of here
+    $(function() {
+        $(".clickable").live("click", function() {
+            var new_ids =  "<%= @project_ids %> " + $(this).children('img').attr('data-project-id');
+            window.opener.document.getElementById('feature_project_ids').value = new_ids;
+
+            // TODO update image
+
+            window.close();
+        });
+    });
+</script>
