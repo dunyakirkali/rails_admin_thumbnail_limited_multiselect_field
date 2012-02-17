@@ -7,7 +7,7 @@ module RailsAdmin::Config::Fields::Types
     end
     
     register_instance_option(:label) do
-      'Selected Work'
+      'Selected Work ->'
     end
     
     register_instance_option(:help) do
