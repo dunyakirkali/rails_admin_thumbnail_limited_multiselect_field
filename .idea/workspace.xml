@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb01c526-53fe-427b-b4c7-ca4b307b0cd3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/rails_admin/main/unused.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect.html.erb" afterPath="$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect.html.erb" />
     </list>
@@ -28,7 +29,16 @@
       <file leaf-file-name="_thumbnail_limited_multiselect.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="33" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.5856833">
+            <state line="0" column="23" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unused.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/rails_admin/main/unused.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="9" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -63,6 +73,7 @@
         <option value="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect.rb" />
         <option value="$PROJECT_DIR$/rails_admin_thumbnail_limited_multiselect_field.gemspec" />
         <option value="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/rails_admin/config/fields/types/thumbnail_limited_multiselect.rb" />
+        <option value="$PROJECT_DIR$/app/views/rails_admin/main/unused.erb" />
         <option value="$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect.html.erb" />
       </list>
     </option>
@@ -266,6 +277,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="c3b155c8-9d8c-420e-af28-62f4e132c8f1">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
@@ -468,9 +490,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/rails_admin/main/unused.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="9" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="33" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.5856833">
+        <state line="0" column="23" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
