@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb01c526-53fe-427b-b4c7-ca4b307b0cd3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/rails_admin/main/unused.erb" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect.html.erb" afterPath="$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect_field.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/engine.rb" afterPath="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/engine.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/rails_admin/config/fields/types/thumbnail_limited_multiselect.rb" afterPath="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/rails_admin/config/fields/types/thumbnail_limited_multiselect.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/version.rb" afterPath="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rails_admin_thumbnail_limited_multiselect_field.gemspec" afterPath="$PROJECT_DIR$/rails_admin_thumbnail_limited_multiselect_field.gemspec" />
     </list>
     <ignored path="rails_admin_thumbnail_limited_multiselect_field.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_thumbnail_limited_multiselect_field.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_thumbnail_limited_multiselect_field.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect_field.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="72" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.43575418">
+            <state line="26" column="72" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-16.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rails_admin_thumbnail_limited_multiselect_field.gemspec" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rails_admin_thumbnail_limited_multiselect_field.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="18" selection-start="298" selection-end="298" vertical-scroll-proportion="0.13186814">
               <folding />
             </state>
           </provider>
@@ -99,12 +104,12 @@
         <option value="$PROJECT_DIR$/app/views/picker/_picker.erb" />
         <option value="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect_field/rails_admin/config/fields/types/thumbnail_limited_multiselect.rb" />
         <option value="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect.rb" />
-        <option value="$PROJECT_DIR$/rails_admin_thumbnail_limited_multiselect_field.gemspec" />
         <option value="$PROJECT_DIR$/app/views/rails_admin/main/unused.erb" />
         <option value="$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect.html.erb" />
         <option value="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/rails_admin/config/fields/types/thumbnail_limited_multiselect.rb" />
         <option value="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/engine.rb" />
         <option value="$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/version.rb" />
+        <option value="$PROJECT_DIR$/rails_admin_thumbnail_limited_multiselect_field.gemspec" />
       </list>
     </option>
   </component>
@@ -487,11 +492,6 @@
         <state line="18" column="68" selection-start="474" selection-end="475" vertical-scroll-proportion="0.35714287" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rails_admin_thumbnail_limited_multiselect_field.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="55" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/picker/_picker.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="50" selection-start="635" selection-end="635" vertical-scroll-proportion="0.33039647">
@@ -529,7 +529,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/rails_admin/main/_thumbnail_limited_multiselect_field.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="72" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.43575418">
+        <state line="26" column="72" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-16.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_admin_thumbnail_limited_multiselect_field.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="298" selection-end="298" vertical-scroll-proportion="0.13186814">
           <folding />
         </state>
       </provider>
