@@ -28,7 +28,9 @@
    puts 'slected_ids_string => ' + slected_ids_string.to_s
 %>
 
-<h2><%= slected_ids_string %></h2>
+<h2>PROJECTS</h2>
+<h3><%= slected_ids_string %></h3>
+
 <% loop_count = 5 if selected_ids.count < 5 %>
 
 <% selected_ids.each do |project_id| %>
