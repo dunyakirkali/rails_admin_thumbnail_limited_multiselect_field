@@ -5,9 +5,13 @@ module RailsAdmin::Config::Fields::Types
     register_instance_option(:config) do
       {}
     end
+
+    register_instance_option(:partial) do
+      :thumbnail_limited_multiselect
+    end
     
     register_instance_option(:label) do
-      'Selected Work ->'
+      'Selected Work'
     end
     
     register_instance_option(:help) do

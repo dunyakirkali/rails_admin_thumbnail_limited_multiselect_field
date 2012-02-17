@@ -37,7 +37,7 @@
       <file leaf-file-name="thumbnail_limited_multiselect.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/rails_admin/config/fields/types/thumbnail_limited_multiselect.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="23" selection-start="335" selection-end="335" vertical-scroll-proportion="0.27108434">
+            <state line="9" column="36" selection-start="346" selection-end="346" vertical-scroll-proportion="0.27108434">
               <folding />
             </state>
           </provider>
@@ -78,8 +78,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="346" />
-    <option name="y" value="123" />
+    <option name="x" value="402" />
+    <option name="y" value="176" />
     <option name="width" value="1435" />
     <option name="height" value="878" />
   </component>
@@ -371,7 +371,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="346" y="123" width="1435" height="878" extended-state="0" />
+    <frame x="402" y="176" width="1435" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -498,7 +498,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/rails_admin_thumbnail_limited_multiselect/rails_admin/config/fields/types/thumbnail_limited_multiselect.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="335" selection-end="335" vertical-scroll-proportion="0.27108434">
+        <state line="9" column="36" selection-start="346" selection-end="346" vertical-scroll-proportion="0.27108434">
           <folding />
         </state>
       </provider>
